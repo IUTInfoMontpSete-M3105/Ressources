@@ -4,4 +4,4 @@
 * [Git Cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Support de cours :
-* Cours 1 : [Introduction : Design Patterns](cours1-designPatterns-intro.pdf)
+* Cours 1 : [Introduction](cours1-introduction.pdf)
